@@ -17,12 +17,6 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-<div class="publications">
-
-{% bibliography -f {{ site.scholar.bibliography }} %}
-
-</div>
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
